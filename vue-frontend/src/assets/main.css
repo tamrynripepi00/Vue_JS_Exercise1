@@ -27,9 +27,16 @@ a,
     place-items: center;
   }
 
-  #app {
+  /* #app {
     display: grid;
     grid-template-columns: 1fr 1fr;
     padding: 0 2rem;
-  }
+  } */
+}
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
 }
